@@ -54,6 +54,10 @@ G5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney](https://github.com/DoanNg
 ## Agents: 
 [DoanNgocCuong/MiniProj_Agent1_mem0-supadatabase_LongTermMemory_MemoryAugmentedAIAgents](https://github.com/DoanNgocCuong/MiniProj_Agent1_mem0-supadatabase_LongTermMemory_MemoryAugmentedAIAgents)
 
+# Buy Me a Coffee
+- Techcombank: 1903 7650 9000 16
+- DOAN NGOC CUONG
+- Thank so much!
 
 ---
 Thank to https://github.com/phatjkk/phatjkk?tab=readme-ov-file -> so I have knowed about this README.md
