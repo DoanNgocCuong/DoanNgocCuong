@@ -51,6 +51,8 @@ LIST SẢN PHẨM:
 6. [DoanNgocCuong/pipelines_OpenWebUI_aPartOf_RAG5_LegalRAGChatbot_JobMoney: Pipelines: Versatile, UI-Agnostic OpenAI-Compatible Plugin Framework](https://github.com/DoanNgocCuong/pipelines_OpenWebUI_aPartOf_RAG5_LegalRAGChatbot_JobMoney)
 [DoanNgocCuong/MiniProj_RA
 G5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney](https://github.com/DoanNgocCuong/MiniProj_RAG5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney)
+7. [DoanNgocCuong/MiniProj_RAG3_RAG6_LegalChatbot_16032025](https://github.com/DoanNgocCuong/MiniProj_RAG3_RAG6_LegalChatbot_16032025)
+   
 ## Awesome: 
 1. [DoanNgocCuong/awesome-llm-apps---AI-Agents: Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.](https://github.com/DoanNgocCuong/awesome-llm-apps---AI-Agents)
 
