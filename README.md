@@ -18,7 +18,56 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatjkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatjkk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Đôi dòng giới thiệu: 
-Current Position: AI Engineering. Focus Areas: NLP, LLMs, RAG, Workflow, and AI Agents.
+Dưới đây là bản format lại theo cấu trúc rõ ràng, giữ nguyên nội dung gốc:
+
+---
+
+**Họ và tên:** Đoàn Ngọc Cường  
+**Facebook:** [https://www.facebook.com/doanngoccuong.nhathuong](https://www.facebook.com/doanngoccuong.nhathuong)  
+
+---
+
+### **Thông tin cá nhân:**
+1. **Tên:** Cường  
+ 
+2. **Background học tập:** Data Science and AI   
+3. **Công việc hiện tại:** AI Intern - công ty AI Production mảng Education AI   
+4. **Định hướng tương lai:** NLP, LLMs, RAG, Workflow and AI Agents   
+5. **Sở thích:** học tập phát triển bản thân, hack speed, Networking   
+
+---
+
+### **Background:**  
+Data Science and AI - (BKHN) 2021  
+
+---
+
+### **Current Job:**  
+- AI Intern
+- AI Engineering: NLP, LLMs, RAG, Workflow and AI Agents  
+
+---
+
+### **Lý do chính và mục tiêu muốn đạt được trong khoá:**  
+1. Networking: Connect với nhiều Mentor và Ace trong ngành  
+2. Chuyên môn kiến thức  
+
+---
+
+### **Định hướng gần:**  
+- AI Engineering:  
+  - Database Optimization  
+  - NLP, LLMs, RAG, Workflow and AI Agents  
+  - MLOps  
+
+---
+
+### **Định hướng xa:**  
+1. Connect with many community AI and build community ở xung quanh mình  
+2. Kèm 1-1 Mentoring mảng AI, Agency AI  
+3. Business  
+
+---
 
 ## Basic
 
