@@ -116,3 +116,9 @@ G5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney](https://github.com/DoanNg
 
 ---
 Thank to https://github.com/phatjkk/phatjkk?tab=readme-ov-file -> so I have knowed about this README.md
+
+
+
+=========
+https://git-wrapped.com/
+![](git-wrapped-DoanNgocCuong.png)
