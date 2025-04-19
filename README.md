@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi👋
+https://git-wrapped.com/
+![](git-wrapped-DoanNgocCuong.png)
 <!--
 **DoanNgocCuong/DoanNgocCuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -120,5 +121,4 @@ Thank to https://github.com/phatjkk/phatjkk?tab=readme-ov-file -> so I have know
 
 
 =========
-https://git-wrapped.com/
-![](git-wrapped-DoanNgocCuong.png)
+
