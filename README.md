@@ -59,6 +59,10 @@ G5_OpenWebUI_add_PipelineRAG_LegalRAGChatbot_JobMoney](https://github.com/DoanNg
 ## Agents: 
 [DoanNgocCuong/MiniProj_Agent1_mem0-supadatabase_LongTermMemory_MemoryAugmentedAIAgents](https://github.com/DoanNgocCuong/MiniProj_Agent1_mem0-supadatabase_LongTermMemory_MemoryAugmentedAIAgents)
 
+
+## Basic Tasks: 
+1. https://github.com/DoanNgocCuong/BasicTasks_Benchmark_Suna_IIAgent_19062025
+
 ---
 
 ## Đôi dòng giới thiệu: 
