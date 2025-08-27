@@ -22,6 +22,23 @@ Here are some ideas to get you started:
 
 ## Basic
 
+CÁC DỰ ÁN CHÍNH TẠI CÔNG TY 1: 
+
+1. Dự án 1000 Nghề 
+=> Gen nội dung bài học full cho 1000 Nghề trên App The Coach của công ty 
+
+(app này anh ạ: https://www.thecoach.edu.vn/
+) 
++, 1 User bất kỳ nhập các thông tin thì đều được đề xuất ra LỘ TRÌNH HỌC CÁ NHÂN HOÁ
+
+2. là dự án Robot: 
+Khá to, em làm 2 phần chính trong này. 
+- 1 là đoạn Fast Response của Robot: user nói 1 câu => Fast Response model RobertA để detect ra Intent 
+- 2 là Memory của user được gắn vào AI. 
+(AI có 2 phần Memory: 1 là Memory dạng knowledge base của RAG để cấp thêm thông tin về chính Robot 
+2 là Memory của user => giúp AI cá nhân hoá cho từng user ) 
+ạ.
+
 
 LIST SẢN PHẨM: 
 1. [DoanNgocCuong/MiniProd_Web1_AIWebTestScoring](https://github.com/DoanNgocCuong/MiniProd_Web1_AIWebTestScoring)
