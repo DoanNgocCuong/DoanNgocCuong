@@ -18,6 +18,17 @@ Here are some ideas to get you started:
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatjkk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phatjkk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+# MY ROAD - CON ĐƯỜNG TÔI CHỌN: 
+
+## 1. Mục đích cuối cùng Begin with the end X10 in Mind and The end with the number: Tự do Tâm Trí - X3+GOSINGA. Bonus: Tài chính, Mối quan hệ, Sức khỏe
+## 2. Điểm giao mình chọn cho sự nghiệp với Chiến lược đại dương xanh, Tích lũy có system, nhất quán, dài hạn; Tái sử dụng siêu cao : 
+1. AI Engineering (NLP, LLM, MLOps, System Desgin, ... = 10 % Research Model (NLP, LLMs, RAG) + 70% Engineering (MLOps, System Design) + 10 % AI Application (Prompting, AI Workflow, Tools, ...) + 10% Product. ) +
+2. Creator - KOL Leader Community 
+3. Global
+4. Investor trường phái đầu tư cơ bản (đầu tư giá trị)
+Optional: 
+- Academy: Kết hợp với AI Việt Nam Academy, Full Stack Data Science Academy
+- Product & Business Model & Consulting AI, Edu, Finance. 
 
 
 ## Basic
