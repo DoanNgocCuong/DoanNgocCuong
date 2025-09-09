@@ -50,6 +50,7 @@ Khá to, em làm 2 phần chính trong này.
 2 là Memory của user => giúp AI cá nhân hoá cho từng user ) 
 ạ.
 
+<img src="workflow_ChainOfPrompt.png" alt="Ảnh" width="50%">
 
 LIST SẢN PHẨM: 
 1. [DoanNgocCuong/MiniProd_Web1_AIWebTestScoring](https://github.com/DoanNgocCuong/MiniProd_Web1_AIWebTestScoring)
