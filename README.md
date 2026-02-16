@@ -1,6 +1,7 @@
 ## Hi👋
 https://git-wrapped.com/
 <img src="git-wrapped-DoanNgocCuong.png" alt="Ảnh" width="50%">
+<img src="git-wrapped-DoanNgocCuong_2025.png" alt="Ảnh" width="50%">
 <!--
 **DoanNgocCuong/DoanNgocCuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
